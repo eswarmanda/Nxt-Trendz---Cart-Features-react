@@ -1,0 +1,29 @@
+.order-total {
+  display: flex;
+  justify-content: flex-end;
+}
+.check-out-card {
+  padding: 12px;
+  box-shadow: 0px 4px 16px 0px #eaebed;
+  width: fit-content;
+}
+.total {
+  font-size: medium;
+  color: #a2a0a0;
+}
+.span1 {
+  color: black;
+}
+.total-products {
+  color: #a7a7a7;
+  font-size: small;
+}
+.checkout-btn {
+  height: 35px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  font-weight: 600;
+  width: 100%;
+}
